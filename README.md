@@ -1,5 +1,12 @@
-# 💫 About Me:
-Iqraa Store, a full-stack Islamic lifestyle e-commerce app built with Flutter (BLoC, Dio) and a token-authenticated Django REST API<br>Flutter and Django full-stack projects, especially mobile apps with a real-world use case<br>Backend architecture and scaling REST APIs, plus getting into cloud deployment<br>Google Cloud Platform (networking, security, load balancing) and deeper backend development
+### 👋 About Me
+
+Flutter & full-stack developer building real-world mobile apps end-to-end — UI, REST APIs, and the backend behind them. Currently deepening my backend and cloud skills while shipping production apps.
+
+- 🔭 **Currently working on:** [Iqraa Store](#) — a full-stack Islamic lifestyle e-commerce app built with Flutter (BLoC, Dio) and a token-authenticated Django REST API
+- 🌱 **Currently learning:** backend architecture and scaling REST APIs, plus getting into cloud deployment
+- 👯 **Looking to collaborate on:** Flutter and Django full-stack projects, especially mobile apps with a real-world use case
+- 💬 **Ask me about:** Google Cloud Platform (networking, security, load balancing) and backend development
+- 📫 **Reach me:** nandagouri03@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gouri-nanda-03631b262/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandagouri03@gmail.com) 
